@@ -5,45 +5,38 @@ This repository is devoted to **Deep Learning MSU inter-faculty course**.
 - 🔗 Useful Links:
     - [Cource Link](https://github.com/MSUcourses/Data-Analysis-with-Python/tree/main/Deep%20Learning)
 
+
+* ***Some Notebooks are not available, but will be added in the near future***
+
 ## Project Tree
 ```
-├── 1_warning_explanation
-│   └── ...
-├── 2_test_translation
-│   ├── prompt_1
-│   │   └── ...
-│   ├── prompt_2
-│   │   └── ...
-│   ├── prompt_3
-│   │   └── ...
-│   ├── prompt_4
-│   │   └── ...
-│   ├── prompt_5
-│   │   └── ...
-│   └── prompts
-│       └── ...
-├── 3_test_generation
-│   └── tg_1_prompt.txt
-├── 4_spec_generation
-│   └── ...
-├── 5_comment_generation
-│   └── ...
-├── apps
-│   ├── hf_not_working.py
-│   ├── llama_chat.py
-│   ├── prompts
-│   │   ├── sg_9_prompt.txt
-│   │   ├── we-1-prompt.txt
-│   │   └── we-3-prompt.txt
-│   ├── requirements.txt
-│   └── unused
+├── AutoEncoders and GAN
+│   ├── ...
+│   └── submission_template10.py
+├── Batches and Normalization
+│   ├── ...
+│   └── DL_MSU_HW03.ipynb
+├── CNN
+│   ├── ...
+│   └── submission04.py
+├── CV
+│   ├── ...
+│   └── submission_template09.py
+├── Embeddings, Word2Vec
 │       └── ...
 ├── .gitignore
-├── ReadMe
-├── sg_rules
-├── src
-│   └── inference.py
-└── test_generation_NotATask
-    └── ...
+├── Image Captioning
+│       └── ...
+├── NLP and RNN
+│       └── ...
+├── PyTorch Introduction
+│   ├── ...
+│   ├── DL_MSU_HW02.ipynb
+│   └── submisson01.py
+├── README.md
+├── seq2seq and Attention
+│       └── ...
+└── Transfer
+        └── ...
 ```
 
